@@ -1,21 +1,21 @@
 ---
-author: Your Name
+author: Jo Charbonneau
 title: Project Dataset and Topics
 output: html
 ---
 
-[Link to dataset]()
+[Link to dataset](https://www.icpsr.umich.edu/web/NACJD/studies/38872)
 
 Things you plan to investigate using this dataset:
 
-- Thing 1
-- Thing 2
-- Thing 3
+- The frequency of police stops by age (possibly analyzing alongside race if possible?)
+- Most common amount of officer present at police stop
+- How many of those stopped at the time of the survey taken had encountered police within the last 12 months
 
 Stat 351 topics you plan to cover during the analysis:
 
-1. Topic 1
-2. Topic 2
-3. Topic 3
-4. Topic 4
+1. Web scraping
+2. "Big" Data
+3. Animated/Interactive graphics
+4. APIs (if not necessarily appropriate, most likely PDF tools)
 
