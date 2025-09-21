@@ -19,3 +19,17 @@ Stat 351 topics you plan to cover during the analysis:
 3. Animated/Interactive graphics
 4. APIs (if not necessarily appropriate, most likely PDF tools)
 
+---
+
+Comments:
+
+- This dataset can just be outright downloaded, so I'm not sure it's going to allow you to demonstrate API use successfully
+
+- I think you're going to have a major observation bias in this dataset (e.g. stops which are reported have more officers) -- that's not necessarily a problem, just something you should probably note at some point. 
+
+- Where would you use PDF tools?
+
+- I wouldn't call 100k records "big" - it easily fits into memory. Beyond that we won't get to the "big data" part of class until after this is due. 
+
+
+You could actually scrape LPD reports that are public information and posted online. That might be interesting and local? :)
